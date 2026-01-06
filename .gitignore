@@ -1,0 +1,43 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+.Python
+env/
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Generated files
+*.docx
+APPLICATIONS/
+
+# Personal data (never commit)
+YOUR_PROFILE/USER_PROFILE.md
+YOUR_PROFILE/USER_BULLETS.md
+
+# Keep the templates
+!YOUR_PROFILE/.gitkeep
+
+# Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Environment variables
+.env
+.env.local
+.env.*.local
