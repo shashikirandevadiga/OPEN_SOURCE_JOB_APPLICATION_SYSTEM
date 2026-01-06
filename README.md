@@ -282,6 +282,11 @@ MIT License - See [LICENSE](LICENSE)
 
 ## Credits
 
-Built by [Your Name] using Claude Code.
+Built by Shashikiran Devadiga using Claude Code.
 
 Inspired by the belief that job searching shouldn't consume your building time.
+
+**Connect:**
+- GitHub: [@shashikirandevadiga](https://github.com/shashikirandevadiga)
+- LinkedIn: [Shashikiran Devadiga](https://www.linkedin.com/in/shashikirandevadiga)
+- Portfolio: [shashikirandevadiga.com](https://shashikirandevadiga.com)
